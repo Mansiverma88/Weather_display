@@ -8,9 +8,6 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -27,7 +24,8 @@
 
 ## Features
 - Search the waether of any city
-- can view weather displayed on pretty card
+- Can view weather displayed on pretty card.
+- Can also view the weather of next 7 days in the city.
 
 
 ## Setup
