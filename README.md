@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 <!-- * [License](#license) -->
 
@@ -34,7 +33,9 @@
 - And in command prompt move into Weather_display folder and run
 - npm i, to install node modules inside the "Weather_display" folder.
 - then, npm start, to start the react website on your local computer.
+
 You can see a website like this running on your system.
+
 ![Screenshot 2023-06-02 140250](https://github.com/Mansiverma88/Weather_display/assets/98829045/502da807-e2db-4da0-84e4-352635eac477)
 
 
